@@ -152,7 +152,7 @@ $(document).ready(function(){
         scrollHorizontally: false,
         anchors: ["home", "intro", "projects","crew","news","auth","footer"],
         menu: ".menu",
-        responsiveHeight: 900,
+        responsiveHeight: 1400,
 
     });
 

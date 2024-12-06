@@ -185,7 +185,7 @@
     footer i{
         font-size: 5.5vw;
     }
-    h2, span{font-size: 6vw;}
+    h2, span{font-size: 9vw;}
 }
 
 @media (max-width: 575.98px) {
@@ -228,6 +228,10 @@
     #aboutBlok #specializationBlok p{
         font-size: 7vw;
     }
+    #aboutBlok #specializationBlok h3{
+        font-size: 10vw;
+    }
+
 
     #aboutBlok p{
         font-size: 3.5vw;
@@ -266,10 +270,10 @@
         font-size: 4vw;
     }
     #content1 #aboutBlok h3{
-        font-size: 10vw;
+        font-size: 6vw;
     }
     #gornjiLeviBlok h1{
-        font-size: 14vw;
+        font-size: 12vw;
     }
     #gornjiLeviBlok #bars{
         font-size: 8vw;
@@ -313,6 +317,9 @@
     #aboutBlok #specializationBlok p{
         font-size: 9vw;
     }
+    #ourwork #specializationBlok h3{
+        font-size: 18vw;
+    }
     #aboutBlok p{
         font-size:6.5vw ;
     }
@@ -323,7 +330,7 @@
         font-size: 12vw;
     }
     #gornjiLeviBlok h1{
-        font-size: 16vw;
+        font-size: 11vw;
     }
     #gornjiLeviBlok #bars{
         font-size: 9vw;
