@@ -153,7 +153,8 @@ $(document).ready(function(){
         anchors: ["home", "intro", "projects","crew","news","auth","footer"],
         menu: ".menu",
         responsiveHeight: 900,
-
+        responsiveWidth: 500,
+        scrollBar: false
     });
 
     $("#bars").click(function(){

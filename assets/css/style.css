@@ -8,7 +8,7 @@ html {
   scroll-behavior: smooth; }
 
 body {
-  font-family: "Manrope", sans-serif;}
+  font-family: "Manrope", sans-serif; overflow: hidden;}
 
 a {
   text-decoration: none; }
